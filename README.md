@@ -1,8 +1,3 @@
-# numerical_methods_hw1
-==========================
-====NASURLA KAAN 315CC====
-=======TEMA 1 MN==========
-==========================
 ========================TASK 1 MARKOV-IS-COMING============================
 
 1. function [Labyrinth] = parse_labyrinth(file_path)
